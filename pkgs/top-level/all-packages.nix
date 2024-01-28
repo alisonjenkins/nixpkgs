@@ -40185,6 +40185,8 @@ with pkgs;
 
   cups-brother-hl3140cw = pkgsi686Linux.callPackage ../misc/cups/drivers/hl3140cw { };
 
+  cups-brother-hl4570cdw = pkgsi686Linux.callPackage ../misc/cups/drivers/hl4570cdw { };
+
   cups-brother-hll2340dw = pkgsi686Linux.callPackage  ../misc/cups/drivers/hll2340dw { };
 
   cups-brother-hll3230cdw = pkgsi686Linux.callPackage  ../misc/cups/drivers/hll3230cdw { };
